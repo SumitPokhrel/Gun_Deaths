@@ -1,2 +1,2 @@
-# Gun_Deaths
-Analysis of gun deaths in US 
+# Analysis of Gun Deaths in US: 2012-2014
+This analysis explores gun related deaths in US from 2012 to 2014.The data primarily comes from the Centers for Disease Control and Prevention's [Multiple Cause of Death database](https://www.cdc.gov/nchs/data_access/VitalStatsOnline.htm#Mortality_Multiple). This is derived from death certificates from all 50 states and the DC. It is considered one of the most inclusive appraisal of firearm deaths. Special thanks to [Gun Deaths in America](https://fivethirtyeight.com/features/gun-deaths/) for parsing and cleaning the [data](https://github.com/fivethirtyeight/guns-data) which I used. 
